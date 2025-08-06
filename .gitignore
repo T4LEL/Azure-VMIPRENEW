@@ -122,6 +122,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# VS Code settings (add specific files with git add -f if needed)
+.vscode/
+
 # Azure Functions artifacts
 bin
 obj
