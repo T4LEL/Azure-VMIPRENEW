@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=YOUR_STORAGE_ACCOUNT;AccountKey=YOUR_STORAGE_KEY;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AZURE_SUBSCRIPTION_ID": "00000000-0000-0000-0000-000000000000",
+    "AZURE_TENANT_ID": "11111111-1111-1111-1111-111111111111",
+    "AZURE_CLIENT_ID": "22222222-2222-2222-2222-222222222222",
+    "AZURE_CLIENT_SECRET": "your-client-secret-here",
+    "ALLOWED_RESOURCE_GROUPS": "production-rg,staging-rg,dev-rg"
+  }
+}
